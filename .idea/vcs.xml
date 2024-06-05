@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/cereal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/entt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/lvk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/lvk/submodules/assimp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/lvk/submodules/glm" vcs="Git" />
+  </component>
+</project>
